@@ -33,9 +33,9 @@ const ProductSection = () => {
       <div className="flex flex-col items-center">
         <Image src="/perfume3.jpg" alt="picture3" width={300} height={300} />
         <h2 className="mb-3 sm:mb-5 text-sm text-[#a7a8af]">P&nbsp;E&nbsp;R&nbsp;F&nbsp;U&nbsp;M&nbsp;E</h2>
-        <h1 className="font-bold font-serif text-3xl mb-3 sm:mb-5 text-[#22272e] sm:w-[200px]">J'Adore</h1>
+        <h1 className="font-bold font-serif text-3xl mb-3 sm:mb-5 text-[#22272e] sm:w-[200px]">JAdore</h1>
         <p className="mb-6 text-sm text-[#a7a8af] w-[295px] sm:w-full">
-          J’adore, an ode to women, their daring and their beauty. From J’adore Eau de Parfum to the concentrate of flowers and water of the Parfum d'Eau, the iconic floral bouquet is revealed and reinvented. Striking an artful balance, it expresses all the sensuality and freshness of the finest flowers.
+          Jadore, an ode to women, their daring and their beauty. From Jadore Eau de Parfum to the concentrate of flowers and water of the Parfum, the iconic floral bouquet is revealed and reinvented. Striking an artful balance, it expresses all the sensuality and freshness of the finest flowers.
         </p>
         <div className="flex items-center gap-4 mb-6">
           <h1 className="text-2xl font-bold text-[#3d816]">$149.99</h1>

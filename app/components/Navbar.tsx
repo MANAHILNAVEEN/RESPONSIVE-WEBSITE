@@ -36,7 +36,7 @@ const Navbar = () => {
      
       <div className={`absolute top-16 right-0 w-full bg-white ${menuOpen ? 'block' : 'hidden'} md:hidden`}>
         <div className="flex flex-col items-center py-4 space-y-4">
-          <a href="#whatsnew" className="text-lg">What's New</a>
+          <a href="#whatsnew" className="text-lg">Whats New</a>
           <a href="#blog" className="text-lg">Blog</a>
           <div className="flex space-x-6">
             <FaHeart className="text-xl cursor-pointer hover:text-pink-400" />
